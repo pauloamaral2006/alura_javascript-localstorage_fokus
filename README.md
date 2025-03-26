@@ -26,7 +26,7 @@
 
 ## 🧑‍🏫 Instrutor(es)
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/9221969?v=4" width=115><br><sub>Luan Alves</sub>](https://github.com/viniciosneves) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/9221969?v=4" width=115><br><sub>Vinicios Neves</sub>](https://github.com/viniciosneves) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 💻 Screenshot
